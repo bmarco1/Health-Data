@@ -65,4 +65,6 @@ res = stats.probplot(df_train['age'], plot = plt)
 #check out plotly for more ideas. There are a lot of things that can be done. Also, there is a new competition on kaggle to check out
 #Theoretical quantities and probability plot
 #what can ne added to the plot to add more statistical value
+#Can this be used for work force management data
+#what are the benefits of studying JAVA over python? What are the similarities betweem the two
 plt.show()
